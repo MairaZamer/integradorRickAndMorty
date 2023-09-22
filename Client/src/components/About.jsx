@@ -7,7 +7,7 @@ const About = () => {
             <div>
                 <h2>Mi integrador Rick and Morty</h2>
                 <br />
-                <p>Maira Zamer: 25 años, emprendedora coso lenceria femenina</p>
+                <p>Maira Zamer: 25 años, emprendedora de confeccion de lenceria femenina</p>
                 <br />
                 <p><ol className='not-style'>Me gusta:
                     <li>El mate🧉</li>

@@ -24,7 +24,7 @@ function App() {
    const [characters, setCharacters] = useState([]);
    const [access, setAccess] = useState(false);
 
-   const URL = 'http://localhost:3001/rickandmorty/login/';
+   const URL = 'http://localhost:3001/rickandmorty/login';
 
    const login = async (userData) => {
       try {
